@@ -8,9 +8,9 @@ useraccount10
 
 Output will be stored in Chain.csv file which will be extracted in first column only.Output will be as below - 
 
-Prashant.Khaire
+David.White
 Senior Technical Architect I&S
-Venkata.Korupolu
+Brian.Carter
 Delivery Manager TTS
 
 Use Excel to rearrange output.
