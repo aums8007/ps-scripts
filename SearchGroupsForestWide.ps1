@@ -1,3 +1,4 @@
+# Active Directory Script
 # Search specific groups that begins with the name "APP-NAME" across the forest and output the CSV file
 # Output : Group Name, Domain Name, Scope and Distringuished Name
 
